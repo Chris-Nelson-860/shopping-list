@@ -1,0 +1,31 @@
+button{
+    background-color:darkblue;
+    color:white;
+    display: border-box;
+    font-weight:bolder;
+    padding:.75em;
+    margin-top:1em;
+    margin-bottom:1em;
+    width: 205px;
+  }
+  .toggleButt{
+    background-color:darkblue;
+    color:white;
+    display: border-box;
+    font-weight:bolder;
+    padding:.75em;
+    margin-top:1em;
+    margin-bottom:1em;
+    width: 102px;
+  }
+  .inputTitle{
+    display: border-box;
+    display:inline-block;
+    width: 75px;
+  }
+  input{
+    background-color:lightgrey;
+    border: 1px solid blue;
+    display:border-box;
+    width: 125px;
+  }
